@@ -1,0 +1,9 @@
+Why do we need polyfills?
+  Some browsers do not support all features of every new ES specification. In that case, we need to handle the gap for that particular browser.
+
+Babel - A javascript library to transpile and polyfill.
+
+Transpile - convert js code from one es spec to older version. done during build process, before deployment.
+
+
+Source: https://javascript.info/polyfills
